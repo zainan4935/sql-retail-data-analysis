@@ -1,0 +1,5 @@
+customer_id,customer_name,region,sales_amount
+1,John,North,500
+2,Alice,South,700
+3,David,East,650
+4,Sarah,West,800
