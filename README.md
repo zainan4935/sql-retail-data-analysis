@@ -1,4 +1,4 @@
-# SQL Retail Data Analysis
+sql retail data analysis
 
 A complete SQL-based retail analytics project focused on customer behavior analysis, sales performance tracking, and business reporting using MySQL.
 
